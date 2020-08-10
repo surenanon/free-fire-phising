@@ -1,0 +1,37 @@
+body{
+background-color:whitesmoke
+}
+.email{
+    margin-top: 20px;
+      
+}
+.pass{
+    margin-top: 10px;
+   padding: 5px;
+   margin-left: 10px;
+   
+}
+h1{
+    color: black;
+}
+.dd{
+ margin-left: 10px;
+}
+.img{
+    margin-top: 30px;
+}
+button{
+    margin-left: 14px;
+    
+}
+.mon{
+    margin-left: 80px;
+}
+.rew{
+    color: crimson;
+    font-family: 'Red Rose', cursive;
+}
+footer{
+    color: grey;
+    background-color:black;
+}
